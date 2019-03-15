@@ -1,7 +1,7 @@
 # Catalog
 Custom catalog of Helm Charts
 
-charts/<APP>/<APP_VERSION>/
+charts/APP/APP_VERSION/
   
 |--charts/           # Directory containing dependency charts.
   
